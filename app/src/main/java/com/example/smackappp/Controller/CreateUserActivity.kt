@@ -1,9 +1,10 @@
-package com.example.smackappp
+ package com.example.smackappp.Controller
 
 import android.graphics.Color
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
+import com.example.smackappp.R
 import kotlinx.android.synthetic.main.activity_create_user.*
 import java.util.*
 

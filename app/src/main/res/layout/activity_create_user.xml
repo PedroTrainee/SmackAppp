@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:onClick="generateUserAvatar"
-    tools:context=".CreateUserActivity">
+    tools:context=".Controller.CreateUserActivity">
 
     <EditText
         android:id="@+id/createUserNameText"
